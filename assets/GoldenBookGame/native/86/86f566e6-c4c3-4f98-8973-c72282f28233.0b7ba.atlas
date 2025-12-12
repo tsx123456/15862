@@ -1,0 +1,55 @@
+
+BG_MG_h.png
+size: 983,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FALLINGSTAR/FallingStar_00010
+  rotate: true
+  xy: 897, 369
+  size: 116, 67
+  orig: 204, 115
+  offset: 74, 39
+  index: -1
+LIGHT/GOLD_LIGHT
+  rotate: true
+  xy: 897, 258
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+LIGHT_CONNER
+  rotate: true
+  xy: 897, 161
+  size: 95, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+MIST/MIST_00025
+  rotate: false
+  xy: 831, 20
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+Mg_background_h_building
+  rotate: true
+  xy: 2, 2
+  size: 161, 827
+  orig: 161, 827
+  offset: 0, 0
+  index: -1
+Mg_background_h_sky
+  rotate: true
+  xy: 2, 165
+  size: 320, 893
+  orig: 320, 893
+  offset: 0, 0
+  index: -1
+STAR/STAR_02
+  rotate: false
+  xy: 943, 329
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Symbol_08.png
+size: 432,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Symbol_08/Symbol_08_compass2
+  rotate: false
+  xy: 2, 2
+  size: 100, 89
+  orig: 170, 142
+  offset: 53, 22
+  index: -1
+images/Symbol_08/Symbol_08_map
+  rotate: false
+  xy: 299, 4
+  size: 126, 120
+  orig: 170, 142
+  offset: 6, 16
+  index: -1
+images/Symbol_08/Symbol_08_skin1_halo
+  rotate: true
+  xy: 144, 108
+  size: 153, 111
+  orig: 170, 142
+  offset: 8, 16
+  index: -1
+images/Symbol_08/Symbol_08_skin1_shadow
+  rotate: true
+  xy: 257, 109
+  size: 152, 40
+  orig: 170, 142
+  offset: 9, 9
+  index: -1
+images/Symbol_08/Symbol_08_skin2_compass
+  rotate: true
+  xy: 157, 2
+  size: 104, 93
+  orig: 170, 142
+  offset: 51, 10
+  index: -1
+images/Symbol_08/Symbol_08_skin2_map
+  rotate: true
+  xy: 299, 126
+  size: 135, 131
+  orig: 170, 142
+  offset: 4, 5
+  index: -1
+images/Symbol_08/compass_mat1
+  rotate: false
+  xy: 133, 3
+  size: 6, 6
+  orig: 170, 142
+  offset: 91, 72
+  index: -1
+images/Symbol_08/compass_mat2
+  rotate: true
+  xy: 133, 11
+  size: 12, 10
+  orig: 170, 142
+  offset: 89, 67
+  index: -1
+images/Symbol_08/compass_mat3
+  rotate: false
+  xy: 252, 5
+  size: 26, 48
+  orig: 170, 142
+  offset: 80, 47
+  index: -1
+images/Symbol_08/compass_mat3dropshadow
+  rotate: false
+  xy: 252, 55
+  size: 29, 51
+  orig: 170, 142
+  offset: 79, 36
+  index: -1
+images/Symbol_08/map_corner
+  rotate: true
+  xy: 104, 2
+  size: 21, 27
+  orig: 170, 142
+  offset: 12, 71
+  index: -1
+images/Symbol_08/reflect
+  rotate: true
+  xy: 104, 25
+  size: 66, 51
+  orig: 170, 142
+  offset: 64, 46
+  index: -1
+images/Symbol_Gold/Gold_frame_lightsweep/Gold_frame_lightsweep_00022
+  rotate: true
+  xy: 2, 93
+  size: 168, 140
+  orig: 244, 204
+  offset: 38, 32
+  index: -1

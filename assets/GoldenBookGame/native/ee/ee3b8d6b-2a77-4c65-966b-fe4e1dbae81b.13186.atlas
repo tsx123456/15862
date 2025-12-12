@@ -1,0 +1,13 @@
+
+Bigwin_Mask.png
+size: 16,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BigWin/Win_mask
+  rotate: false
+  xy: 2, 2
+  size: 10, 72
+  orig: 10, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Symbol_10.png
+size: 740,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_10/BG
+  rotate: true
+  xy: 2, 2
+  size: 165, 138
+  orig: 167, 140
+  offset: 1, 1
+  index: -1
+Symbol_10/Book
+  rotate: true
+  xy: 282, 17
+  size: 150, 140
+  orig: 150, 140
+  offset: 0, 0
+  index: -1
+Symbol_10/FX_Book_Blue
+  rotate: false
+  xy: 586, 4
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+Symbol_10/FX_Book_Red
+  rotate: false
+  xy: 663, 5
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+Symbol_10/FX_Radiance_02s
+  rotate: true
+  xy: 619, 77
+  size: 90, 80
+  orig: 91, 83
+  offset: 1, 0
+  index: -1
+Symbol_10/FX_SoftGlowDots
+  rotate: true
+  xy: 532, 76
+  size: 91, 85
+  orig: 93, 87
+  offset: 1, 1
+  index: -1
+Symbol_10/FX_SunLights
+  rotate: false
+  xy: 424, 61
+  size: 106, 106
+  orig: 114, 114
+  offset: 4, 4
+  index: -1
+Symbol_10/FX_Word_Shine_01
+  rotate: false
+  xy: 282, 2
+  size: 40, 13
+  orig: 42, 15
+  offset: 1, 1
+  index: -1
+Symbol_10/FX_Word_Shine_02
+  rotate: false
+  xy: 324, 2
+  size: 40, 13
+  orig: 42, 15
+  offset: 1, 1
+  index: -1
+Symbol_10/FX_Word_Shine_03
+  rotate: false
+  xy: 366, 2
+  size: 40, 13
+  orig: 42, 15
+  offset: 1, 1
+  index: -1
+Symbol_10/Frame
+  rotate: true
+  xy: 142, 2
+  size: 165, 138
+  orig: 167, 140
+  offset: 1, 1
+  index: -1
+Symbol_10/Word
+  rotate: false
+  xy: 424, 7
+  size: 160, 52
+  orig: 160, 52
+  offset: 0, 0
+  index: -1

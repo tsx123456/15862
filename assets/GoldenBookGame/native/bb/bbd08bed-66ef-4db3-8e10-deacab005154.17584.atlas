@@ -1,0 +1,41 @@
+
+Symbol_07.png
+size: 161,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Symbol_07/Symbol_07
+  rotate: true
+  xy: 2, 18
+  size: 105, 118
+  orig: 105, 118
+  offset: 0, 0
+  index: -1
+images/Symbol_07/Symbol_07_skin1_halo
+  rotate: true
+  xy: 2, 236
+  size: 160, 112
+  orig: 164, 112
+  offset: 2, 0
+  index: -1
+images/Symbol_07/Symbol_07_skin1_shadow
+  rotate: true
+  xy: 116, 236
+  size: 160, 43
+  orig: 163, 43
+  offset: 2, 0
+  index: -1
+images/Symbol_07/Symbol_07_skin2
+  rotate: true
+  xy: 2, 125
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1
+images/Symbol_07/dust_land_00436
+  rotate: true
+  xy: 122, 2
+  size: 121, 35
+  orig: 125, 59
+  offset: 3, 12
+  index: -1

@@ -1,0 +1,229 @@
+
+FG_Declare.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_Declare/FG_enter_book_cover_01
+  rotate: false
+  xy: 2, 2
+  size: 418, 313
+  orig: 418, 314
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_inside_01_1
+  rotate: false
+  xy: 422, 2
+  size: 382, 293
+  orig: 382, 293
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_inside_01_2
+  rotate: false
+  xy: 842, 2
+  size: 401, 309
+  orig: 401, 309
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_inside_01_3
+  rotate: false
+  xy: 1262, 2
+  size: 380, 376
+  orig: 380, 376
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_open_L02
+  rotate: false
+  xy: 2, 425
+  size: 390, 421
+  orig: 390, 421
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_open_L02_1
+  rotate: false
+  xy: 422, 425
+  size: 327, 402
+  orig: 327, 402
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_open_bottom_02
+  rotate: false
+  xy: 842, 425
+  size: 106, 43
+  orig: 106, 43
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_ripped_01
+  rotate: false
+  xy: 1262, 425
+  size: 51, 391
+  orig: 51, 391
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_enter_book_ripped_02
+  rotate: false
+  xy: 2, 848
+  size: 312, 364
+  orig: 312, 364
+  offset: 0, 0
+  index: -1
+FX/Exp_Symbol_Gold_00002
+  rotate: false
+  xy: 422, 848
+  size: 90, 75
+  orig: 120, 100
+  offset: 16, 12
+  index: -1
+FX/Exp_Symbol_Gold_00003
+  rotate: false
+  xy: 842, 848
+  size: 94, 80
+  orig: 120, 100
+  offset: 13, 10
+  index: -1
+FX/Exp_Symbol_Gold_00005
+  rotate: false
+  xy: 1262, 848
+  size: 94, 80
+  orig: 120, 100
+  offset: 13, 10
+  index: -1
+FX/Exp_Symbol_Gold_00007
+  rotate: false
+  xy: 2, 1271
+  size: 92, 81
+  orig: 120, 100
+  offset: 14, 9
+  index: -1
+FX/Exp_Symbol_Gold_00009
+  rotate: false
+  xy: 422, 1271
+  size: 93, 81
+  orig: 120, 100
+  offset: 14, 9
+  index: -1
+FX/Exp_Symbol_Gold_00011
+  rotate: false
+  xy: 842, 1271
+  size: 94, 80
+  orig: 120, 100
+  offset: 13, 10
+  index: -1
+FX/Exp_Symbol_Gold_00012
+  rotate: false
+  xy: 1262, 1271
+  size: 94, 80
+  orig: 120, 100
+  offset: 13, 10
+  index: -1
+
+FG_Declare2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Exp_Symbol_Gold_00013
+  rotate: false
+  xy: 2, 2
+  size: 91, 80
+  orig: 120, 100
+  offset: 13, 10
+  index: -1
+Symbol/Symbol_00
+  rotate: false
+  xy: 422, 2
+  size: 92, 78
+  orig: 170, 142
+  offset: 37, 28
+  index: -1
+Symbol/Symbol_01
+  rotate: false
+  xy: 842, 2
+  size: 57, 86
+  orig: 170, 142
+  offset: 56, 25
+  index: -1
+Symbol/Symbol_02
+  rotate: false
+  xy: 1262, 2
+  size: 88, 86
+  orig: 170, 142
+  offset: 40, 23
+  index: -1
+Symbol/Symbol_03
+  rotate: false
+  xy: 2, 425
+  size: 80, 83
+  orig: 170, 142
+  offset: 44, 25
+  index: -1
+Symbol/Symbol_04
+  rotate: false
+  xy: 422, 425
+  size: 76, 84
+  orig: 170, 142
+  offset: 46, 26
+  index: -1
+Symbol/Symbol_05
+  rotate: false
+  xy: 842, 425
+  size: 170, 142
+  orig: 170, 142
+  offset: 0, 0
+  index: -1
+Symbol/Symbol_05_A
+  rotate: false
+  xy: 1262, 425
+  size: 107, 72
+  orig: 170, 142
+  offset: 29, 29
+  index: -1
+Symbol/Symbol_06
+  rotate: false
+  xy: 2, 848
+  size: 170, 142
+  orig: 170, 142
+  offset: 0, 0
+  index: -1
+Symbol/Symbol_06_A
+  rotate: false
+  xy: 422, 848
+  size: 137, 95
+  orig: 170, 142
+  offset: 18, 15
+  index: -1
+Symbol/Symbol_07
+  rotate: false
+  xy: 842, 848
+  size: 170, 142
+  orig: 170, 142
+  offset: 0, 0
+  index: -1
+Symbol/Symbol_07_A
+  rotate: false
+  xy: 1262, 848
+  size: 107, 125
+  orig: 170, 142
+  offset: 34, 8
+  index: -1
+Symbol/Symbol_08
+  rotate: false
+  xy: 2, 1271
+  size: 170, 142
+  orig: 170, 142
+  offset: 0, 0
+  index: -1
+Symbol/Symbol_08_A
+  rotate: false
+  xy: 422, 1271
+  size: 145, 116
+  orig: 170, 142
+  offset: 11, 13
+  index: -1
+Symbol/Symbol_gold_bg_all
+  rotate: false
+  xy: 842, 1271
+  size: 168, 140
+  orig: 170, 142
+  offset: 1, 1
+  index: -1
